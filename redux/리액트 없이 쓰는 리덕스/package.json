@@ -1,0 +1,9 @@
+{
+  "name": "리액트 없이 쓰는 리덕스",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
