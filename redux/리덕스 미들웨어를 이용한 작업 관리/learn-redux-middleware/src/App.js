@@ -1,13 +1,27 @@
-import SampleContainer from "./containers/SampleContainer";
+// import SampleContainer from "./containers/SampleContainer";
+
+
+
+// const App = () => {
+//   return (
+//     <div>
+//       <SampleContainer />      
+//     </div>
+//   );
+// };
+
+// export default App;
+
+import CounterContainer from "./containers/CounterContainer";
 
 
 
 const App = () => {
   return (
     <div>
-      <SampleContainer />      
+      <CounterContainer />
     </div>
-  );
-};
+  )
+}
 
-export default App;
+export default App
